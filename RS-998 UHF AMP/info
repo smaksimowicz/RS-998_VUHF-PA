@@ -1,10 +1,10 @@
 {
   "uuid": "3c443287792c4d1ea9c1b5df2c22ff16",
-  "path": "Offline/RS0998%20UHF%20AMP",
-  "name": "RS0998 UHF AMP",
+  "path": "Offline/RS-998%20UHF%20AMP",
+  "name": "RS-998 UHF AMP",
   "content": "",
   "created_at": "2024-02-21 21:44:54",
-  "updated_at": "2024-02-26 12:14:05",
+  "updated_at": "2024-02-28 11:55:40",
   "stick": "",
   "documents": [
     {
@@ -14,26 +14,11 @@
       "docType": "1",
       "master": "",
       "thumb": "/images/thumb-default.png",
-      "components": {
-        "ed9eb2faffb34286820a54a14e9e9e24": 14,
-        "f3b8f77ac95140e1ad9627058127405d": 1,
-        "4207b33e476e99b0ecb2071c9a62081b": 1,
-        "c3872e85b79a40349482611c25048094": 2,
-        "89026c0e23ca49dcb85d26a1d0805b33": 16,
-        "3692f4b527214f36b310c6da018218e7": 1,
-        "c2e1ceaec62347d3a15efba00da5be06": 2,
-        "535a8a50d77c42b6abae6374bcc7039d": 4,
-        "5269da836b4642bba348bb13cef9ae94": 2,
-        "cbe56af1e28e434983b3ea527aa3de3b": 2,
-        "7af48efd6b4a45ef9c660595cc66c140": 1,
-        "5fc29bbb28384e0978b810ce38ae7e3b": 1,
-        "ac3a59dcd9124de0a978774e7fe5cbc6": 1,
-        "bfb1850a1bb54a66bcb81bf67cce3418": 4,
-        "428364402b374fd38cc685e03d7e6ade": 2,
-        "e07c52ed2cdf41838eee408a61b10cca": 2,
-        "944ca2f18b8f43e6aa642583d275ffbc": 2,
-        "b53a14bf91174c6a80f0daece39abe35": 1
-      },
+      "updateTime": 1708980063,
+      "createTime": 1708939732,
+      "histories": [],
+      "created_at": "2024-02-26 10:28:52",
+      "updated_at": "2024-02-26 21:41:03",
       "BOM": [
         [
           "Value",
@@ -600,26 +585,45 @@
           }
         ]
       ],
-      "updateTime": 1708939732,
-      "createTime": 1708548320,
-      "histories": [],
-      "created_at": "2024-02-21 21:45:20",
-      "updated_at": "2024-02-26 10:28:52"
+      "components": {
+        "ed9eb2faffb34286820a54a14e9e9e24": 14,
+        "f3b8f77ac95140e1ad9627058127405d": 1,
+        "4207b33e476e99b0ecb2071c9a62081b": 1,
+        "c3872e85b79a40349482611c25048094": 2,
+        "89026c0e23ca49dcb85d26a1d0805b33": 16,
+        "3692f4b527214f36b310c6da018218e7": 1,
+        "c2e1ceaec62347d3a15efba00da5be06": 2,
+        "535a8a50d77c42b6abae6374bcc7039d": 4,
+        "5269da836b4642bba348bb13cef9ae94": 2,
+        "cbe56af1e28e434983b3ea527aa3de3b": 2,
+        "7af48efd6b4a45ef9c660595cc66c140": 1,
+        "5fc29bbb28384e0978b810ce38ae7e3b": 1,
+        "ac3a59dcd9124de0a978774e7fe5cbc6": 1,
+        "bfb1850a1bb54a66bcb81bf67cce3418": 4,
+        "428364402b374fd38cc685e03d7e6ade": 2,
+        "e07c52ed2cdf41838eee408a61b10cca": 2,
+        "944ca2f18b8f43e6aa642583d275ffbc": 2,
+        "b53a14bf91174c6a80f0daece39abe35": 1
+      }
     },
     {
-      "uuid": "c978b533b2324bee6490ed52ae9411b5",
-      "puuid": "3c443287792c4d1ea9c1b5df2c22ff16",
-      "title": "PCB_RS0998 UHF AMP",
-      "filename": "PCB_RS0998 UHF AMP.json",
+      "uuid": "4c69e93ec983e1dfda6cc71564362276",
+      "title": "PCB_RS-998 UHF AMP",
+      "filename": "PCB_RS-998 UHF AMP.json",
       "description": "",
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
+      "updateTime": 1709117740,
+      "createTime": 1708946045,
+      "histories": [],
+      "created_at": "2024-02-26 12:14:05",
+      "updated_at": "2024-02-28 11:55:40",
       "components": {
+        "31b8b514da9045ac95e4396945fee174": 2,
         "2ee8eb13a0124a108e622ce40c0c25a8": 16,
         "f00063ebb2894f68ba339d38653df1d5": 2,
         "bade90667a6e4731855e9a223387b8a6": 2,
-        "31b8b514da9045ac95e4396945fee174": 2,
         "2aa68f92f7db4d5194604eba912392e9": 1,
         "1bf187967bad4401be13720716e6c77b": 2,
         "b60f399a7a7e41848b2be1eb49c79141": 14,
@@ -634,20 +638,14 @@
         "51b67eb21b42418ea16d35d536746a44": 1,
         "61a4dd13416c4c309578824d9c019fe3": 2,
         "4046b93f65234a66a8a51dd298e5edd2": 1
-      },
-      "BOM": [],
-      "updateTime": 1708946045,
-      "createTime": 1708548446,
-      "histories": [],
-      "created_at": "2024-02-21 21:47:26",
-      "updated_at": "2024-02-26 12:14:05"
+      }
     }
   ],
   "sort": [
     "c0e0d1269a8babdee0cb4ace7864d89a"
   ],
-  "title": "RS0998 UHF AMP",
-  "foldername": "RS0998 UHF AMP",
-  "schfilename": "RS0998 UHF AMP.json",
-  "schfilemtime": 1708939732915
+  "title": "RS-998 UHF AMP",
+  "foldername": "RS-998 UHF AMP",
+  "schfilename": "RS-998 UHF AMP.json",
+  "schfilemtime": 1708980063262
 }
